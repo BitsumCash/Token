@@ -13,7 +13,7 @@ Token name : BitsumCash
 
 Token Symbol : BSCH
 
-Token Address : Comming soon
+Token Address : 0x2fD80B9aC084b3D54ce302607eF403DfB18202C8
 
 Decimals : 0
 
